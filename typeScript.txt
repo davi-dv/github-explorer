@@ -1,0 +1,5 @@
+oque é ?
+
+superset ou conjunto de funcionalidades que são adicionadas encima da  linguagem javascript.
+
+
